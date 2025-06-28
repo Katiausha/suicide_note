@@ -1,3 +1,7 @@
+# Português: [Clique Aqui!](https://raw.githubusercontent.com/Katiausha/suicide_note/refs/heads/main/portugues.txt)
+
+# Global: [Press Here!](https://raw.githubusercontent.com/Katiausha/suicide_note/refs/heads/main/english.txt)
+
 Thinking back on the moments we shared, I find it hard to let go.
 
 At the beginning, you meet me, and then we gradually started chatting about this and that… over these years, we talked about so many things.
